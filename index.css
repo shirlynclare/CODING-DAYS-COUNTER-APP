@@ -1,0 +1,44 @@
+body {
+    background:linear-gradient(to right , #CEE6F2 , #E3867D);
+    background-size: cover;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    color: :black
+}
+.container{
+    background: linear-gradient(to left,#CEE6F2 , #E3867D);
+    border: 100%;
+    border-radius: 15%;
+    max-width: 89%;
+}
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: pink;
+}
+
+#save-btn {
+    background: palevioletred;
+}
+
